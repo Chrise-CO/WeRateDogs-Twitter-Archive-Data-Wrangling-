@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is my second project in the Udacity/ALX-T Data Analyst Nanodegree Program which was focused on the data wrangling process. In this project, Wrangle and Analyze Data, I used Python and its libraries, to gather data from a variety of sources and in a variety of formats, assessed its quality and tidiness, and then cleaned it in a process called data wrangling. I documented my wrangling efforts in a Jupyter Notebook, and showcased them through analyses and visualizations using Python (and its libraries).
+This is my second project in the Udacity/ALX-T Data Analyst Nanodegree Program which was focused on the data wrangling process. In this project, Wrangle and Analyze Data, I used Python and its libraries, to wrangle and explore the Twitter account of @ WeRateDogs; gathering the data through a variety of sources and formats, assessing its quality and tidiness, and then cleaning it using the data wrangling steps. I documented my wrangling efforts in a Jupyter Notebook, and showcased them through analyses and visualizations using Python (and its libraries).
 
 ## Dataset
  
